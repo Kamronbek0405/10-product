@@ -1,0 +1,24 @@
+.hero-title{
+    width: 100%;
+    height: 90vh;
+    background-image: url("./hero-img/Image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .hero__card{
+    width: 550px;
+    height: 300px;
+    background-image: url("./hero-img/Image2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+  }
+  .hero__card2{
+    width: 550px;
+    height: 300px;
+    background-image: url("./hero-img/Image3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+  }
